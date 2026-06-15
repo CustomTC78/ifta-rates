@@ -1,31 +1,31 @@
 name: Update IFTA rates
-  
-  on:
-    schedule:
-      - cron: "17 6 * * 1"
-    workflow_dispatch:
 
-  permissions:
-    contents: write
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
 
-  jobs:
-    update:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v4
-        - uses: actions/setup-python@v5
-          with:
-            python-version: "3.x"
-        - name: Fetch and parse official IFTA matrix
-          run: python3 ifta_rates_update.py
-        - name: Commit changes if any
-          run: |
-            git config user.name "ifta-rates-bot"
-            git config user.email "bot@trucker-core.com"
-            git add ifta-rates.json last-checked.txt
-            if git diff --cached --quiet; then
-              echo "Nothing to commit"
-            else
-              git commit -m "IFTA rates check"
-              git push
-            fi
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Fetch and parse official IFTA matrix
+        run: python3 ifta_rates_update.py
+      - name: Commit changes if any
+        run: |
+          git config user.name "ifta-rates-bot"
+          git config user.email "bot@trucker-core.com"
+          git add ifta-rates.json last-checked.txt
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "IFTA rates check"
+            git push
+          fi
