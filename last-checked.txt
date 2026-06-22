@@ -1,4 +1,4 @@
-last checked (UTC): 2026-06-15T21:16:23.022468+00:00
+last checked (UTC): 2026-06-22T18:59:42.993270+00:00
 no rate changes
 NOTES:
   3Q2026: only 48 jurisdictions — skipped (kept old)
