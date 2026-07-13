@@ -1,5 +1,4 @@
-last checked (UTC): 2026-07-06T17:20:23.507500+00:00
-CHANGED:
-  2026-Q3 CT: 0.489 -> 0.499
+last checked (UTC): 2026-07-13T13:51:32.113348+00:00
+no rate changes
 NOTES:
   4Q2026: only 0 jurisdictions — skipped (kept old)
