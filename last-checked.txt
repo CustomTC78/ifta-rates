@@ -1,6 +1,4 @@
-last checked (UTC): 2026-08-03T10:06:13.525813+00:00
-CHANGED:
-  2026-Q3 CA: 0.971 -> 0.979
-  2026-Q3 VA: 0.327 -> 0.336
+last checked (UTC): 2026-08-10T08:04:44.299830+00:00
+no rate changes
 NOTES:
   4Q2026: only 0 jurisdictions — skipped (kept old)
