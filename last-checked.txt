@@ -1,4 +1,4 @@
-last checked (UTC): 2026-08-10T08:04:44.299830+00:00
+last checked (UTC): 2026-08-17T07:16:53.952804+00:00
 no rate changes
 NOTES:
   4Q2026: only 0 jurisdictions — skipped (kept old)
