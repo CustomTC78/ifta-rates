@@ -351,7 +351,7 @@
   {"jurisdictionCode": "UT", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.379},
   {"jurisdictionCode": "VA", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.336, "surchargeRate": 0.143},
   {"jurisdictionCode": "VT", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.31},
-  {"jurisdictionCode": "WA", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.584},
+  {"jurisdictionCode": "WA", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.595},
   {"jurisdictionCode": "WI", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.329},
   {"jurisdictionCode": "WV", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.357},
   {"jurisdictionCode": "WY", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.24}

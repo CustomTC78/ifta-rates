@@ -1,4 +1,5 @@
-last checked (UTC): 2026-08-17T07:16:53.952804+00:00
-no rate changes
+last checked (UTC): 2026-08-24T07:29:17.537226+00:00
+CHANGED:
+  2026-Q3 WA: 0.584 -> 0.595
 NOTES:
   4Q2026: only 0 jurisdictions — skipped (kept old)
