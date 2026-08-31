@@ -317,7 +317,7 @@
   {"jurisdictionCode": "LA", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.2},
   {"jurisdictionCode": "MA", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.24},
   {"jurisdictionCode": "MB", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.3383},
-  {"jurisdictionCode": "MD", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.4675},
+  {"jurisdictionCode": "MD", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.4745},
   {"jurisdictionCode": "ME", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.312},
   {"jurisdictionCode": "MI", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.524},
   {"jurisdictionCode": "MN", "fuelType": "diesel", "quarterKey": "2026-Q3", "ratePerGallon": 0.326},

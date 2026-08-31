@@ -1,5 +1,5 @@
-last checked (UTC): 2026-08-24T07:29:17.537226+00:00
+last checked (UTC): 2026-08-31T13:54:03.526719+00:00
 CHANGED:
-  2026-Q3 WA: 0.584 -> 0.595
+  2026-Q3 MD: 0.4675 -> 0.4745
 NOTES:
   4Q2026: only 0 jurisdictions — skipped (kept old)
