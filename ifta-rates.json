@@ -393,7 +393,7 @@
   {"jurisdictionCode": "NS", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.4157},
   {"jurisdictionCode": "NV", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.27},
   {"jurisdictionCode": "NY", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.3805},
-  {"jurisdictionCode": "OH", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.0},
+  {"jurisdictionCode": "OH", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.0001},
   {"jurisdictionCode": "OK", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.19},
   {"jurisdictionCode": "ON", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.243},
   {"jurisdictionCode": "OR", "fuelType": "diesel", "quarterKey": "2026-Q4", "ratePerGallon": 0.0},

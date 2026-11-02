@@ -1,6 +1,5 @@
-last checked (UTC): 2026-10-26T13:06:43.130906+00:00
+last checked (UTC): 2026-11-02T15:57:34.871610+00:00
 CHANGED:
-  2026-Q4 AB: 0.3509 -> 0.13
-  2026-Q4 OH: 0.47 -> 0.0
+  2026-Q4 OH: 0.0 -> 0.0001
 NOTES:
   1Q2027: only 0 jurisdictions — skipped (kept old)
